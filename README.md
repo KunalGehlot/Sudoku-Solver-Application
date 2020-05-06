@@ -8,6 +8,8 @@ Find the project at Udacity's official Artificial Nanodegree Repository [here](h
 
 ## Setting up the environment
 
+***(Note: The Recommended Python Version by Udacity is 3.5 or 3.6)***
+
 #### 1. Download the AIND Anaconda environment
 
 Enter the following command in your Linux terminal:
